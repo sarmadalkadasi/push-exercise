@@ -2,3 +2,6 @@ potato
 raise
 pizza
 noddles 
+alone 
+versonLoand
+andereloop  
